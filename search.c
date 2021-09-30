@@ -2,6 +2,7 @@
 int count_bit_one(int a)
 {
   int count = 1
+  while(n)
   {
     if(a%2 ==1)
     {
