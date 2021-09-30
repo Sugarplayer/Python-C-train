@@ -34,6 +34,7 @@ int count_bit_one(int n)
     }
     }
 
+
     return count;
 }
 
