@@ -1,5 +1,5 @@
 #include<studio.h>
-int count_bit_one(int a)
+int count_bit_one(unsigned int a)
 {
   int count = 1
   while(n)
