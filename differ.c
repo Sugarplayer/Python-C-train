@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int get——diff(int m,int n)
 {
 int tmp = m^n;
