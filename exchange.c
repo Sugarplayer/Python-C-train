@@ -9,3 +9,5 @@ int main()
   printf("%d,%d",a,b);
   return 0;
 }
+
+//先将a和b异或一下，然后再与b异或，即可交换a和b
