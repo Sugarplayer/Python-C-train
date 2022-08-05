@@ -1,0 +1,6 @@
+（1）	tolower(),toupper()直接转换
+string x = "abc";
+	char b = toupper(x[0]);
+（2）	使用 x – ‘a’+’A’.
+字符串—数字   stof
+数字—字符串 
